@@ -1,2 +1,2 @@
 # Dribble_AppClone
-Dribble (social media) app clone by using flutter and dart
+Dribble (social media) app clone by using dart & flutter
